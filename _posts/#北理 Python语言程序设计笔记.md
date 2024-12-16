@@ -186,6 +186,8 @@ Python提供了一些以内置函数形式来完成的数值运算功能
 
 
 
+
+
 ![img](https://i1.hdslb.com/bfs/note/ed89a7d04eb06c172c73f919ddbafb3b89404c57.jpg@1192w.webp)
 
 ![img](https://i1.hdslb.com/bfs/note/31c37fc6b8271bee5b580dc1d3d896f971eb9c34.jpg@1192w.webp)
