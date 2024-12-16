@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yu Zhang Ren's blog
+title: 渔丈人的博客
 email: huang_yan_sheng@qq.com
-description: This is my blog
+description: 欢迎来到我的博客
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://localhost:4000
 twitter_username: jekyllrb
