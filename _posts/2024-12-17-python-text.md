@@ -109,11 +109,11 @@ RGB每色取值范围0-255整数或0-1小数
 
 可使用from和import共同实现对库的引用。
 
-![img](https://i1.hdslb.com/bfs/note/308bec56925f2921e5169b38a7e89190e4143f12.jpg@1192w.webp)
+ 
 
 也可使用import和as保留字共同完成对库的引用。
 
-![img](https://i1.hdslb.com/bfs/note/3e625636becf49b7ba28bef03eb69a06de6231e5.jpg@1192w.webp)
+
 
 
 
@@ -127,7 +127,7 @@ RGB每色取值范围0-255整数或0-1小数
 
 - **第二章主要语法内容**
 
-![img](https://i1.hdslb.com/bfs/note/e655faa20efd85a377a825c9190322a4b6dfff0c.jpg@1192w.webp)
+ 
 
 
 
@@ -139,11 +139,11 @@ RGB每色取值范围0-255整数或0-1小数
 
 **整数类型**与数学中整数的概念一致
 
-![img](https://i1.hdslb.com/bfs/note/8738ab54525918f8457c73573985592e3cd677e5.jpg@1192w.webp)
+ 
 
 **浮点类型**与数学中实数的概念一致
 
-![img](https://i1.hdslb.com/bfs/note/df21d08f16b3c2d722f694e1d2ccd6064cf4bcd2.jpg@1192w.webp)
+ 
 
 浮点数间运算存在不确定尾数，不是bug。
 
@@ -151,11 +151,11 @@ RGB每色取值范围0-255整数或0-1小数
 
 为了解决浮点数间运算存在的尾数问题，可以使用round()函数。
 
-![img](https://i1.hdslb.com/bfs/note/b58d46e6d8127158fcc8b04a8529be4874072b0b.jpg@1192w.webp)
+ 
 
 浮点数可以采用科学计数法表示
 
-![img](https://i1.hdslb.com/bfs/note/edf74af0444581f5e21c96fcbc460b1aab14ec5c.jpg@1192w.webp)
+ 
 
 
 
@@ -169,11 +169,22 @@ RGB每色取值范围0-255整数或0-1小数
 
 操作符是完成运算的一种符号体系，Python借鉴了许多数学中的操作符进行数学运算。
 
-![img](https://i1.hdslb.com/bfs/note/a1c72c56cf17ca624642dbdacd6bf53308ea31a4.jpg@1192w.webp)
+| 操作符及使用 |     描述      |
+| ---- | ---- |
+| x+y | 加，x与y之和 |
+| x-y | 减，x与y之差 |
+| x*y | 乘，x与y之积 |
+| x/y | 除，x与y之商，10/3结果是3.3333.... |
+| x//y | 整数除，x与y之整数商 10//3结果是3 |
+| x%y | 余数，模运算 10%3结果是1 |
+| +x | x本身 |
+| -y | y的负值 |
+| x**y | 幂运算，x的y次幂 |
 
 
 
-![img](https://i1.hdslb.com/bfs/note/0147ee1569023f24826076c9f558a7e31efe478d.jpg@1192w.webp)
+
+
 
 不同的数字类型间可以进行混合运算
 
@@ -189,7 +200,7 @@ RGB每色取值范围0-255整数或0-1小数
 
 Python提供了一些以内置函数形式来完成的数值运算功能
 
-![img](https://i1.hdslb.com/bfs/note/9438dbf9dd8d04aa6052c6ee9527007eb6973202.jpg@1192w.webp)
+
 
 
 
